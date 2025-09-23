@@ -1154,7 +1154,7 @@
     function loadInitialFile() {
 
       const imageLis = [
-        /*
+        
         "delete/img.heic",
         "delete/image0.jpg",
         "delete/image1.jpg",
@@ -1166,7 +1166,7 @@
         "delete/image7.jpg",
         "delete/image8.jpg",
         "delete/image9.jpg"
-       */ 
+       /*
       
         "images/image0.jpg",
         "images/image1.jpg",
@@ -1182,7 +1182,7 @@
         "images/image11.jpg",
         "images/image12.jpg",
         "images/image13.jpg"
-      
+      */
       ];
       const randImg = Math.floor(Math.random() * imageLis.length);
 
